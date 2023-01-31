@@ -1,2 +1,2 @@
 #!/bin/bash
-echa "ALX"
+echo "ALX school"
